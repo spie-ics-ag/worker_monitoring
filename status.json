@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-11T06:16:47.942023Z",
+  "timestamp": "2026-02-11T07:35:52.314780Z",
   "port": 25,
   "server1_host": "mailhub1-external.be.ch",
   "server1_status": "open",
   "server1_ok": 1,
   "server2_host": "mailhub2-external.be.ch",
-  "server2_status": "open",
-  "server2_ok": 1,
-  "overall_status": "ok",
-  "status_code": 0
+  "server2_status": "closed",
+  "server2_ok": 0,
+  "overall_status": "error",
+  "status_code": 1
 }
